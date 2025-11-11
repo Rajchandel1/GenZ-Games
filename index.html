@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GenZ Games - Browse All Games</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">GenZ Games</div>
+                  <div class="developer-section" onclick="window.open('https://www.instagram.com/genz.devloperr?igsh=aGFkYTJkMHE5NHBj', '_blank')">
+      <div class="devloper">
+        <div class="image-container">
+          <img src="./images/me with glasses again handsome.jpeg" alt="Raj - Developer" />
+        </div>
+        <div class="intro">
+          <p>by</p>
+          <h4>GenZ Devloper</h4>
+        </div>
+      </div>
+    </div>
+ </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section class="hero">
+                <h1>Browse All Games</h1>
+                <input type="text" class="search-bar" id="searchBar" placeholder="Search">
+                
+                <div class="filters" id="filters" style="display: none;">
+                    <button class="filter-btn active" data-filter="all">All Games</button>
+                </div>
+            </section>
+
+            <section class="games-grid" id="gamesGrid">
+                <!-- Games will be dynamically added here -->
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <div class="footer-logo">GenZ Games</div>
+                    <p class="footer-desc">GenZ Games is a developer-friendly publisher of indie games for PC, Mac, and consoles.</p>
+                </div>
+                <!-- <div class="footer-links">
+                    <a href="#games">Games</a>
+                    <a href="#news">News</a>
+                    <a href="#merch">Merch</a>
+                    <a href="#about">About</a>
+                    <a href="#contact">Contact</a>
+                    <a href="#pitch">Pitch Us</a>
+                </div> -->
+            </div>
+
+            <div class="newsletter">
+                <h3>Stay Updated!</h3>
+                <p>Subscribe to our newsletter to get updates on new games! You can also request any game you want to play. We'd love to hear from you! 🎮</p>
+                <p>Follow me on  <a href="https://www.instagram.com/genz.devloperr?igsh=aGFkYTJkMHE5NHBj" target="_blank" class="instagram-link"><i class="ri-instagram-line"></i>Instagram @genzdevloperr</a></p>
+                
+                <form class="newsletter-form" id="newsletterForm">
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Name *</label>
+                            <input type="text" name="name" class="newsletter-input" placeholder="Your name" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Email *</label>
+                            <input type="email" name="email" class="newsletter-input" placeholder="your@email.com" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>Game Request (Optional)</label>
+                        <textarea name="message" class="newsletter-textarea" placeholder="Tell us what games you'd like to see..."></textarea>
+                    </div>
+                    
+                    <button type="submit" class="subscribe-btn">Subscribe & Send Request</button>
+                    <div class="success-message" id="successMessage">
+                        Thank you! Your submission has been received! 🎉
+                    </div>
+                </form>
+            </div>
+
+            <div class="footer-bottom">
+                <span>© 2025 GenZ Games | Made by GenZ Developer 💻</span>
+                <!-- <div class="social-links">
+                    <a href="#">PRIVACY POLICY</a>
+                    <a href="#">📷</a>
+                    <a href="#">🔗</a>
+                    <a href="#">🐦</a>
+                    <a href="#">📘</a>
+                </div> -->
+            </div>
+        </div>
+    </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
