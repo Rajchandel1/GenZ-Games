@@ -71,7 +71,7 @@
                 downloadLink: "https://www.mediafire.com/file/bwl0kser60nt3eo/Salman+Driving+School_0.1.0.apk/file"
             },
               {
-                name: "Dadi Ka Adda",
+                name: "Angry Dadi Ka Adda",
                 studio: "YOUR STUDIO",
                 tags: ["PITCH US"],
                 emoji: "./images/dadi ka adda.png",
@@ -97,13 +97,6 @@
                 tags: ["PITCH US"],
                 emoji: "./images/flappy dhoni.webp",
                 downloadLink: "https://www.mediafire.com/file/emj6143nrkb5ksw/FlappyDhoni.apk/file"
-            },
-             {
-                name: "Angry Dadi Ka Adda",
-                studio: "YOUR STUDIO",
-                tags: ["PITCH US"],
-                emoji: "./images/dadi ka adda.png",
-                downloadLink: "https://www.mediafire.com/file/mv6qyyttjkeeyl5/Dadi_Ka_Adda_0.1.0.apk/file"
             },
                {
                 name: "Gadar Ek Game Katha",
@@ -332,3 +325,4 @@
         }
 
         // Example: addNewGame({ name: "New Game", studio: "Studio Name", tags: ["RPG"], emoji: "🎯", downloadLink: "#" });
+
