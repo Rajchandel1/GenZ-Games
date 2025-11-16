@@ -326,3 +326,33 @@
 
         // Example: addNewGame({ name: "New Game", studio: "Studio Name", tags: ["RPG"], emoji: "🎯", downloadLink: "#" });
 
+
+        
+  const form = document.getElementById("newsletterForm");
+  const successMessage = document.getElementById("successMessage");
+
+  form.addEventListener("submit", async function (e) {
+    e.preventDefault(); // stop default redirect
+
+    const formData = new FormData(form);
+
+    const res = await fetch("https://formspree.io/f/xvgdwrzk", {
+      method: "POST",
+      body: formData,
+      headers: { "Accept": "application/json" }
+    });
+
+    if (res.ok) {
+      successMessage.style.display = "block";   // show success message
+      form.reset();
+
+      // hide message after 3 seconds
+      setTimeout(() => {
+        successMessage.style.display = "none";
+      }, 3000);
+    } else {
+      alert("Something went wrong. Please try again!");
+    }
+  });
+
+
