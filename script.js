@@ -28,13 +28,6 @@
                 emoji: "./images/modi mario.png",
                 downloadLink: "https://www.mediafire.com/file/ivccj6207eb55ik/Super+Mario+Modi.apk/file"
             },
-             {
-                name: "Modi Aur Hakla",
-                studio: "EXCELLENT RECTANGLE",
-                tags: ["ROGUELITE"],
-                emoji: "./images/modi aur hakla.png",
-                downloadLink: "https://www.mediafire.com/file/8ng1zfjy6j9x4s4/modi+or+hakla.apk/file"
-            },
             {
                 name: "Angry Dadi",
                 studio: "COSMIC GAMES",
@@ -69,7 +62,114 @@
                 tags: ["PITCH US"],
                 emoji: "./images/modi climb racing.png",
                 downloadLink: "https://www.mediafire.com/file/v1ayo6mqvfby8ek/6133ModiClimbRacing.apk/file"
-            }
+            },
+              {
+                name: "Salman Driving School",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/salman driving school.png",
+                downloadLink: "https://www.mediafire.com/file/bwl0kser60nt3eo/Salman+Driving+School_0.1.0.apk/file"
+            },
+              {
+                name: "Dadi Ka Adda",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/dadi ka adda.png",
+                downloadLink: "https://www.mediafire.com/file/mv6qyyttjkeeyl5/Dadi+Ka+Adda_0.1.0.apk/file"
+            },
+              {
+                name: "Nigga Runner",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/nigga runner.jpg",
+                downloadLink: "https://www.mediafire.com/file/mv6qyyttjkeeyl5/Dadi+Ka+Adda_0.1.0.apk/file"
+            },
+               {
+                name: "Flappy Carry",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/carry.webp",
+                downloadLink: "https://www.mediafire.com/file/m512dv26jewh22c/6419Flying_Carry.apk/file"
+            },
+               {
+                name: "Flappy Dhoni",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/flappy dhoni.webp",
+                downloadLink: "https://www.mediafire.com/file/emj6143nrkb5ksw/FlappyDhoni.apk/file"
+            },
+             {
+                name: "Angry Dadi Ka Adda",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/dadi ka adda.png",
+                downloadLink: "https://www.mediafire.com/file/mv6qyyttjkeeyl5/Dadi_Ka_Adda_0.1.0.apk/file"
+            },
+               {
+                name: "Gadar Ek Game Katha",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/gadar.jpg",
+                downloadLink: "https://www.mediafire.com/file/p1cizxuqn4h13x4/GADAR_EK_GAME_KATHA_%25281%2529.apk/file"
+            },
+                  {
+                name: "Hakla",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/hakla.webp",
+                downloadLink: "https://www.mediafire.com/file/yqwjis3ek4dz712/Hakla_%25281%2529.apk/file"
+            },
+
+               {
+                name: "Jetha Bird",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/jhetha bird.jpg",
+                downloadLink: "https://www.mediafire.com/file/mbgj4hnavpmhafj/JethaBird_%25281%2529.apk/file"
+            },
+                {
+                name: "Modi The Game",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/modi the game.webp",
+                downloadLink: "https://www.mediafire.com/file/p8ljvtxv7ciitvi/7087Modii_The_Game_%25281%2529.apk/file"
+            },
+                 {
+                name: "Flappy King",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/flappy king.webp",
+                downloadLink: "https://www.mediafire.com/file/ug7lah0uhfwj9h0/2357FlappyKing.apk/file"
+            },
+             {
+                name: "Flappy oouucchh",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/ouch.jpg",
+                downloadLink: "https://www.mediafire.com/file/v65909c2ykmpst7/Flappy_Ooouuuch%2521.apk/file"
+            },
+              {
+                name: "Flappy Friend",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/friend.avif",
+                downloadLink: "https://www.mediafire.com/file/23u673hflsyhvnp/FlappyFriend.apk/file"
+            },
+               {
+                name: "Flappy Sins",
+                studio: "YOUR STUDIO",
+                tags: ["PITCH US"],
+                emoji: "./images/johny.jpg",
+                downloadLink: "https://www.mediafire.com/file/p7wueddxlqz5j9h/FlappySins_%25281%2529.apk/file"
+            },
+
+
+            
+
+
+
+
+
             
         ];
 
